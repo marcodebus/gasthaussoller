@@ -1,69 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+      xmlns="https://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="https://www.sitemaps.org/schemas/sitemap/0.9
+            https://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
 <url>
-  <loc>http://www.gasthaus-zum-soller.de/</loc>
+  <loc>https://www.gasthaus-zum-soller.de/</loc>
   <lastmod>2016-01-04T11:49:25+00:00</lastmod>
 </url>
 <url>
-  <loc>http://www.gasthaus-zum-soller.de/index.html</loc>
+  <loc>https://www.gasthaus-zum-soller.de/index.html</loc>
   <lastmod>2016-01-04T11:49:25+00:00</lastmod>
 </url>
 <url>
-  <loc>http://www.gasthaus-zum-soller.de/uberuns.html</loc>
+  <loc>https://www.gasthaus-zum-soller.de/uberuns.html</loc>
   <lastmod>2015-01-07T10:54:02+00:00</lastmod>
 </url>
 <url>
-  <loc>http://www.gasthaus-zum-soller.de/veranstaltungen.html</loc>
+  <loc>https://www.gasthaus-zum-soller.de/veranstaltungen.html</loc>
   <lastmod>2016-02-28T11:57:24+00:00</lastmod>
 </url>
 <url>
-  <loc>http://www.gasthaus-zum-soller.de/menu.html</loc>
+  <loc>https://www.gasthaus-zum-soller.de/menu.html</loc>
   <lastmod>2016-02-23T12:14:41+00:00</lastmod>
 </url>
 <url>
-  <loc>http://www.gasthaus-zum-soller.de/oeffnungszeiten.html</loc>
+  <loc>https://www.gasthaus-zum-soller.de/oeffnungszeiten.html</loc>
   <lastmod>2016-01-04T11:41:05+00:00</lastmod>
 </url>
 <url>
-  <loc>http://www.gasthaus-zum-soller.de/galerie.html</loc>
+  <loc>https://www.gasthaus-zum-soller.de/galerie.html</loc>
   <lastmod>2015-04-24T09:46:47+00:00</lastmod>
 </url>
 <url>
-  <loc>http://www.gasthaus-zum-soller.de/impressum.html</loc>
+  <loc>https://www.gasthaus-zum-soller.de/impressum.html</loc>
   <lastmod>2015-04-24T09:46:48+00:00</lastmod>
 </url>
 <url>
-  <loc>http://www.gasthaus-zum-soller.de/gaestebuch.html</loc>
+  <loc>https://www.gasthaus-zum-soller.de/gaestebuch.html</loc>
   <lastmod>2015-04-24T09:46:47+00:00</lastmod>
 </url>
 <url>
-  <loc>http://www.gasthaus-zum-soller.de/gaststube.html</loc>
+  <loc>https://www.gasthaus-zum-soller.de/gaststube.html</loc>
   <lastmod>2016-01-04T11:38:14+00:00</lastmod>
 </url>
 <url>
-  <loc>http://www.gasthaus-zum-soller.de/cafe.html</loc>
+  <loc>https://www.gasthaus-zum-soller.de/cafe.html</loc>
   <lastmod>2016-01-09T16:01:31+00:00</lastmod>
 </url>
 <url>
-  <loc>http://www.gasthaus-zum-soller.de/festsaal.html</loc>
+  <loc>https://www.gasthaus-zum-soller.de/festsaal.html</loc>
   <lastmod>2015-04-24T09:46:47+00:00</lastmod>
 </url>
 <url>
-  <loc>http://www.gasthaus-zum-soller.de/kegelbahn.html</loc>
+  <loc>https://www.gasthaus-zum-soller.de/kegelbahn.html</loc>
   <lastmod>2015-01-07T10:47:49+00:00</lastmod>
 </url>
 <url>
-  <loc>http://www.gasthaus-zum-soller.de/biergarten.html</loc>
+  <loc>https://www.gasthaus-zum-soller.de/biergarten.html</loc>
   <lastmod>2015-04-24T09:46:47+00:00</lastmod>
 </url>
 <url>
-  <loc>http://www.gasthaus-zum-soller.de/pdf/Pizza.pdf</loc>
+  <loc>https://www.gasthaus-zum-soller.de/pdf/Pizza.pdf</loc>
   <lastmod>2016-02-12T13:17:25+00:00</lastmod>
 </url>
 </urlset>
